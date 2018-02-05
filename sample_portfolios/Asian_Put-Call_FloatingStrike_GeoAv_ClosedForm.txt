@@ -1,0 +1,2 @@
+﻿StockPrice:100;StartDate:20160101;TimeToExpiry:1;Vol:20%;Ir:5%;SdeType:Gbm;OptionType:Call;ProdType:AsianCfGeoAvFloatStrikeMC
+OptionType:Put
